@@ -1,0 +1,12 @@
+.pie-chart {
+    width: 400px;
+    height: 400px;
+  }
+  
+  @media (max-width: 768px) {
+    .pie-chart {
+      width: 100%;
+      height: 300px;
+      margin-top: 20px;
+    }
+  }
